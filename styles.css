@@ -291,3 +291,7 @@ img {
         flex-direction: column;
     }
 }
+
+nav a.active {
+    border-bottom: 5px solid white;
+}
